@@ -15,6 +15,7 @@
 | INT-05 | Интервью: бухгалтерия |
 | DOC-01 | Выдержка из контракта с поставщиком |
 | RSK-03 | Бизнес-риск из Vision & Scope |
+| DEC-01 | Ответы бизнеса на открытые вопросы |
 | status_swagger | Проект [status_swagger](https://github.com/barbaraNik/status_swagger): статусы, переходы T1–T10, коды ошибок |
 
 ---
