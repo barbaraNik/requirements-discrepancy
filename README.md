@@ -20,7 +20,7 @@
 | Этап | Статус | Артефакт |
 |---|---|---|
 | Гипотеза | ✅ | [product/hypothesis.md](product/hypothesis.md) |
-| Скоуп: 2 экрана, 3 правила из 24 | ✅ | [product/lovable-prompt.md](product/lovable-prompt.md) |
+| Скоуп: 2 экрана, 3 правила из 24 | ✅ | [product/lovable-prompt.md](product/prototype-prompt.md) |
 | Прототип | ✅ | [Открыть](https://supplier-claim-manag-qxxx.bolt.host) · [Код](https://github.com/barbaraNik/priemka-plus-prototype) |
 | Тест с 3–5 специалистами ВЭД | ⏳ в подготовке | — |
 | Итерация по результатам | — | — |
