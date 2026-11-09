@@ -22,7 +22,7 @@
 | Гипотеза | ✅ | [product/hypothesis.md](product/hypothesis.md) |
 | Скоуп: 2 экрана, 3 правила из 24 | ✅ | [Промпт v1](product/prototype-prompt-v1.md) |
 | Прототип v1 (Bolt) | ✅ | [Открыть](https://supplier-claim-manag-qxxx.bolt.host) · [Код](https://github.com/barbaraNik/priemka-plus-prototype) |
-| Прототип v2 (Lovable): вкладки «Новые / В работе», статус пакета в списке | ✅ | [Открыть прототип](https://pixel-perfect-replay-85885.lovable.app/) · [Промпт v2](product/prototype-prompt-v2.md) |
+| Прототип v2 (Lovable): вкладки «Новые / В работе», статус пакета в списке | ✅ | [Открыть прототип](https://priemka-plus-perfect-replay.lovable.app/) · [Промпт v2](product/prototype-prompt-v2.md) |
 | Статусная модель и API согласованы с прототипом | ✅ | [status_swagger](https://github.com/barbaraNik/status_swagger) |
 | Тест с 3–5 менеджерами ВЭД | ⏳ в подготовке | — |
 | Итерация по результатам | — | — |
